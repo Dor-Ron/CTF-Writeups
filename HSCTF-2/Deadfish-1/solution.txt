@@ -3,4 +3,6 @@ https://esolangs.org/wiki/Deadfish#Python
 
 Essentially each letter represents a numerical operation, and we need to print out the total aggregated number.
 
+Flag: 396
+
 P.S. see python script for more details.
