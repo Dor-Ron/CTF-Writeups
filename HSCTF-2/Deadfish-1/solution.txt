@@ -1,0 +1,6 @@
+I got the code from here and altered it for the purpose of the problem.
+https://esolangs.org/wiki/Deadfish#Python
+
+Essentially each letter represents a numerical operation, and we need to print out the total aggregated number.
+
+P.S. see python script for more details.
