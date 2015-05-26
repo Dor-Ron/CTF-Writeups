@@ -1,0 +1,2 @@
+To the 10th decimal place, what are the coordinates of room 6014? The flag is in the format {latitude, longitude} ignoring the degree symbol.
+Hint: Most organizations are not cool enough to get the GPS coordinates of their meeting place.
