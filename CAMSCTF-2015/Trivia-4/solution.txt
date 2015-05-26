@@ -1,0 +1,8 @@
+Google once again....
+Quoting wikipedia: http://en.wikipedia.org/wiki/Clock_rate
+"As of 2011, the [Guinness World Record] for fastest CPU is by AMD with a Bulldozer based FX chip "overclocked" to 8.805 GHz"
+"As of mid-2013, the highest clock rate on a production processor is the IBM zEC12, clocked at 5.5 GHz, which was released in August of 2012."
+
+But it asked for the official one, in other words the Guiness world record so the flag was:
+
+Flag: 8.805 GHz
