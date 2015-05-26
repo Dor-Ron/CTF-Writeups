@@ -1,0 +1,10 @@
+Does this really need a write up LOL.
+Answer at the very least all the questions with a red asterisk next to them.
+Click submit and you are redirected to a site that says the following:
+
+Flag: {thank_you_for_your_feedback}
+Thank you for your feedback! Your response will help us improve CCTF.
+
+Obviously our flag is:
+
+Flag: {thank_you_for_your_feedback}
