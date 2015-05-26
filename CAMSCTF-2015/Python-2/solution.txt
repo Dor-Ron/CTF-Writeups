@@ -1,0 +1,9 @@
+** See py2.py for code
+We use the Image method from the Pillow module to process the images.
+We convert each pixel to RGB values and concatanate each of them into one whole 
+Red sum, Green sum, and Blue sum based of the RGB system.
+We put these sums into a dictionary and convert the values into md5 hexadecimal values.
+We add all these md5 hexadecimal hashes together and take the md5 hash of that whole big string.
+Which finally yields the flag.
+
+Flag: 2d98c27f040ce429b35dd84124397f65
