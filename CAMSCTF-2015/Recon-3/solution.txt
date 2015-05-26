@@ -1,0 +1,8 @@
+Following up from Recon 2, we head towards CSC's website: http://www.camscsc.org/
+On the bottom right should be a link to their youtube chanel: https://www.youtube.com/channel/UCBoN66yEu3Bm4UYvlvT3KMQ
+As the problem suggests we're looking for a presentation on Linux from 2014, which we can find on this video:
+https://www.youtube.com/watch?v=b7oe7_xgFRc
+
+We look in the video's description and find a weird string, which is our flag: {gnU+L1nuX_f0r_lyfe}
+
+Flag: {gnU+L1nuX_f0r_lyfe}
