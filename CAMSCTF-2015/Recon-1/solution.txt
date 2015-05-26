@@ -1,0 +1,6 @@
+Hint: Lord Helix uses a social utility that connects him with his disciples and others who worship, praise, and serve him.
+The hint suggests some type of social media site.
+We search the e-mail given to us by the problem (l0rd.h3l1x@gmail.com) in Facebook we find this user: #Helix Omastar
+One of his posts are: "{fAcebo0k_s3cUr1ty}"
+
+Flag: {fAcebo0k_s3cUr1ty}
