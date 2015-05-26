@@ -1,0 +1,9 @@
+So I tried a lot of things to no avail, eitherway I'll just cut to the chase.
+1. In terminal I ran "strings excel_data.xlsx"
+We get a bunch of weird stuff but we find something interesting:
+"xl/charts/flag.txt"
+
+2. Eventually, I extracted the contents of the spreadsheet and used cd on the path above ^^
+3. in terminal run "cat flag.txt" and we get our flag.
+
+Flag: {iT's_r1gh7_h3r3}
