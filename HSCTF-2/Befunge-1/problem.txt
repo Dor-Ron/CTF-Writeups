@@ -1,0 +1,9 @@
+Keith has decided that he (or rather, you), will learn a strange programming language for him.
+Here's a wikipedia article on it: http://en.wikipedia.org/wiki/Befunge
+Keith's first test for you: make a program that will take two numbers as input (seperately), multiply them,
+and then print out the product.
+
+Max chars: 6
+Grid: 1x10
+
+You can access the Befunge1 runner using: nc 104.236.80.67 5677
