@@ -1,0 +1,6 @@
+I tried a few things, gimp, photoshop, hex editor, saving as .zip, .rar etc. None worked, so I did some research.
+I found that the CAMS CSC website had an interesting link: http://bobbyluig.gitbooks.io/csc-learn/content/forensics/steg1/steg1.html
+There was a script on the page that I used to reveal the flag, alternitavely I looked into stegano.
+Running the steg1.py program will yield the following flag.
+
+Flag: {w0w_st3g_s0_hArD}
