@@ -1,0 +1,13 @@
+So from the wording of the problem, tumbling and blog I figured the next step is to search Tumblr.
+Also, they said mediocre-guy, where as in proper english it would just be mediocre guy, so I knew something was off.
+I searched tumblr for a user named mediocre-guy and sure enough I found one:
+http://mediocre-guy.tumblr.com/
+
+After unsuccessfully filtering his posts, I decided to search his tags for the flag which led me to this web page:
+http://mediocre-guy.tumblr.com/tagged/flag
+
+There should be a few images, and one transparent one, which when we open in a different tab reads:
+{tr4n5p4r3ncy_ftw}
+which is our flag.
+
+Flag: {tr4n5p4r3ncy_ftw} 
