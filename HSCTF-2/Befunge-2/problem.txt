@@ -1,4 +1,5 @@
-Keith now wants to test your capabilities with a simple (ish) program. Your program should print all powers of 2 from 2^1 to 2^15 (each power on a new line). Easy. The only problem is the character limit.
+Keith now wants to test your capabilities with a simple (ish) program. Your program should print all powers of 2 from 2^1 to 2^15 (each power on a new line).
+Easy. The only problem is the character limit.
 
 Max chars: 19
 Grid: 4x15
