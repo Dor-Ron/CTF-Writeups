@@ -1,0 +1,6 @@
+So we just google it really.
+I used wikipedia: http://en.wikipedia.org/wiki/List_of_Microsoft_codenames
+ctrl+f to "web browser" and you see this line:
+Spartan			Web browser for Windows 10 that does away with MSHTML rendering engine. Refers to Spartans in Halo.
+
+Flag: Spartan
