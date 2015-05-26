@@ -1,0 +1,18 @@
+So when exec() is called on multiple times like with the lambda you're playing with the namespaces.
+Eitherway, I printed out the locals and got this:
+
+{'randint': <bound method Random.randint of <random.Random object at 0x2718590>>,
+'__builtins__': <module '__builtin__' (built-in)>, '__file__': 'py1.py', 
+'base64': <module 'base64' from '/usr/lib/python2.7/base64.pyc'>,
+'number': 3651313444149048222153120696087897323048308168048L,
+'__package__': None, 're': <module 're' from '/usr/lib/python2.7/re.pyc'>, 
+'flag': 'e24zdjNyX3VzZV9FVkFMfQ==', 'input': 8, '__name__': '__main__', '__doc__': None}
+
+Obviously we care about this line:
+'flag': 'e24zdjNyX3VzZV9FVkFMfQ=='
+
+If you couldn't guess already from the file importing base64, or the padding it was encrypted in base64.
+So we use a website like this one: https://www.base64decode.org/
+
+and our output is:
+flag: {n3v3r_use_EVAL}
