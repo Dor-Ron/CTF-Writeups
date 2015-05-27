@@ -1,0 +1,8 @@
+I used urllib2 to get the content of the text file.
+The words are split with a space character.
+So I used the .split method with a space as its parameters to 
+transform the long string into a list with each word as a separate index.
+I then used the len() method to count the index's of the array.
+And voila we get our flag printed in its format.
+
+Flag: stuyctf{176945}
