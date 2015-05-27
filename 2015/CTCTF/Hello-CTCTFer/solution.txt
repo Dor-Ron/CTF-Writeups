@@ -1,0 +1,3 @@
+Just respond to the questions and submit the form.
+
+Flag: hello_ctctf
