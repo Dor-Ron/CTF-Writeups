@@ -1,0 +1,7 @@
+The hint to the problem was step it up which was the flag to a previously solved problem.
+In that problem we used a caesarian shift cipher, so we're gonna use it again here.
+This time however instead of n = 25, n = 9.
+Using this tool: http://rumkin.com/tools/cipher/caesar.php
+we can tell that the flag is:
+
+Flag: captured_the_flag
