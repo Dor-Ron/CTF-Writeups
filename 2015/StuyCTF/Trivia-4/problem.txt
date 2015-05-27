@@ -1,0 +1,7 @@
+Hey! My friend has a Spelling Bee competition coming up and he needs to know how many words he needs to memorize.
+
+Here is the list of words: dictionary.txt
+
+NOTE: dicitonary.txt was a link to this 
+http://stuyctf.me/problem-static/Trivia-4/dictionary.txt
+I added the file in the folder.
