@@ -1,0 +1,5 @@
+When viewing the page source, we see this comment in the html.
+<!--nooooo mom please don't_take_food away from me :'( -->
+the flags usually contain underscores, so we know that the flag is
+
+Flag: don't_take_food
