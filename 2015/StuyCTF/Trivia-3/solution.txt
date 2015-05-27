@@ -1,0 +1,4 @@
+Googled "two most common transport layer protocols"
+Found the answer right away.
+
+Flag:  TCP,UDP
