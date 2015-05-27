@@ -1,0 +1,5 @@
+Googled the exact wording of the problem.
+First link was this page: http://unix.stackexchange.com/questions/107400/ctrl-c-with-two-simultaneous-commands-in-bash
+Reading through the comments we find the answer.
+
+Flag: SIGINT
