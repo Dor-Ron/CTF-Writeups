@@ -1,0 +1,8 @@
+We google the problem's hint.
+One of the first search results is Jay Mo's github account.
+We then click on the link to his personal website: 
+www.unitedjaymo.com
+we view the page source, and find this comment.
+<!-- that's_my_name -->
+
+Flag: that's_my_name
