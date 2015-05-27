@@ -1,0 +1,13 @@
+I normally use a crytogram solver called quipquip for substitution ciphers.
+It got the job done this time around as well.
+http://quipqiup.com/
+
+Entering the text from the problem, the closest match was:
+
+IO CRYPTOGRAPHY, A SUBSTITUTIOO CIPHER IS A METHOD OF EOCODIOG BY WHICH UOITS OF PLAIOTEXT ARE REPLACED WITH CIPHERTEXT, ACCORDIOG TO A REGULAR SYSTEM; THE 'UOITS' MAY BE SIOGLE LETTERS (THE MOST COMMOO), PAIRS OF LETTERS, TRIPLETS OF LETTERS, MIXTURES OF THE ABOVE, AOD SO FORTH. FOR THE FLAG, IT'S ~EEPITCLEAO
+
+What we need is: FOR THE FLAG, IT'S ~EEPITCLEAO
+
+~EEPITCLEAO looks reasonably similar to KEEPITCLEAN, which was the flag.
+
+Flag: KEEPITCLEAN
