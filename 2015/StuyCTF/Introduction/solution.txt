@@ -1,0 +1,3 @@
+The answer lies within the question.
+
+Flag: stuyctf{here's_a_free_flag}
