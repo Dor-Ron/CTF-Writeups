@@ -1,0 +1,4 @@
+We view the page source by clicking ctrl+u.
+The flag is commented out: <!-- stuyctf{always_view_the_source} -->
+
+Flag: stuyctf{always_view_the_source}
