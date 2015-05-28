@@ -1,0 +1,6 @@
+We use the md5 method from the hashkill module when through nested for-loops
+we check all possible numbers-borough-number combinations. we then take an md5 hash 
+of each combination, and match to the supplied hash. If the hashes are equal we break the
+for-loops and print the text version of the correct md5 string.
+
+Flag: stuyctf{345_manhattan_10282}
