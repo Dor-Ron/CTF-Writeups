@@ -1,0 +1,3 @@
+Just make an md5 hash out of the string "what_is_the_md5.txt"
+
+Flag: stuyctf{f21c0afc0217e05852bc58febd2b8aa5}
