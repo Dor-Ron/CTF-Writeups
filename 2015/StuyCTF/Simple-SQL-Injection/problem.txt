@@ -1,0 +1,3 @@
+SQL Injections pose the biggest threat to the web today. Many programmers forget to protect their servers and websites from these types of injections, and thus, they get hacked. It seems like we've come across one of these websites vulnerable to SQL Injections. Can you get the flag from this site?
+
+We've also managed to extract the source of the server!
