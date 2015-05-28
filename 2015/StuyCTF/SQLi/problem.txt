@@ -1,0 +1,4 @@
+The flag is the password for the user with username = "admin".
+The password is a combination of the following characters: abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789_{}
+
+Here's the Login Site. The source code is here.
