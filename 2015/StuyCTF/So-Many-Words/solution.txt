@@ -1,0 +1,6 @@
+We get the words using the urlopen method of the urllib2 module.
+Make all the words into a separate index of an array using the .split with a new line character.
+We use a for loop and if statement to check whether each index had the "and" in it.
+If it does we add it to the count variable and print it out at the end.
+
+Flag: stuyctf{38441}
