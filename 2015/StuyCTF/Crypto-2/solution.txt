@@ -1,0 +1,6 @@
+So we're told the cipher text was encrypted with rot13. So we first use the .decode method
+with rot13 as the parameter on the string provided to us. The string has an equal sign padding,
+which often symbolizes base64 encryption. So this time we use .decode again but with base64 as
+the parameter. Finally we print out the string after 2 decryption algorithms applied to it.
+
+Flag: stuyctf{base64_is_fun}
