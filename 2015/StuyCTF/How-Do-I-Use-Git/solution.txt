@@ -1,0 +1,8 @@
+Simple recon task.
+We go to the site in the problem description: https://github.com/stuyCTF/How-do-I-use-Git
+On the right hand side click on wiki and get redirected to: https://github.com/stuyCTF/How-do-I-use-Git/wiki
+Once there on the right hand side again click on "What is there to find?"
+and get redirected to: https://github.com/stuyCTF/How-do-I-use-Git/wiki/What-is-there-to-find%3F
+Once on this page, the flag is visible.
+
+Flag: stuyctf{wiki_pages_are_helpful}
