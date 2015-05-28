@@ -1,0 +1,8 @@
+Look at the python file.
+We generate a number of length 500k.
+Made a Fibonacci function.
+We run it until it yields a number whose length is equivalent to 500k.
+We then turn that number into a string and add each index to get the final number,
+which happens to be our flag.
+
+Flag: 2250347
