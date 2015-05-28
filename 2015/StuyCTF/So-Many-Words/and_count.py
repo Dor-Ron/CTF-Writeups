@@ -12,4 +12,4 @@ for word in list_of_words:
     else:
         continue
 
-print "stuyctf{%d}" % count => stuyctf{38441}
+print "stuyctf{%d}" % count #=> stuyctf{38441}
