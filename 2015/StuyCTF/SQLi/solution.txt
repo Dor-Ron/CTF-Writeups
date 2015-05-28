@@ -1,0 +1,8 @@
+First off big thank you to team COmbustibleLemons.
+They wrote a similar program for CTCTF and I recognized that the problems were similar.
+I altered their code for the purposes of this task.
+Basically we loop over the possible characters and check if the 
+username: admin 's password begins and continues with the letters we're testing.
+Eventually we get this string back, which is the flag.
+
+Flag: stuyctf{passwords_shouldnt_be_flags_in_ctfs}
