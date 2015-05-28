@@ -1,0 +1,5 @@
+What is the md5 hash of the following file:
+
+what_is_the_md5.txt
+
+Remember to put the md5 in the correct format (stuyctf{XXXXXXXXXXXXXXXXXXXX})
