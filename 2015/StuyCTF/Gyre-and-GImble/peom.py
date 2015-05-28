@@ -8,4 +8,4 @@ for sign in punctuation:
     flag = flag.replace(sign, '')
 
 solution = "stuyctf{" + flag + "}"
-print solution.replace("\n", "")
+print solution.replace("\n", "").lower()
