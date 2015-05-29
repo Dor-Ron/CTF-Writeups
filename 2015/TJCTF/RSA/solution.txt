@@ -1,0 +1,8 @@
+We know to decrypt using RSA from the problem name.
+We are given all the numbers we need, so we use the pow function
+with c, d, and n as arguments. Which essentially does the following:
+c ^ d % n
+
+We then convert the number to a hexadecimal value and "asciify" it.
+
+Flag: modular_arithmetic_is_cool!
