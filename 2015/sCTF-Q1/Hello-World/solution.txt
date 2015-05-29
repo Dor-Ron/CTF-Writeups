@@ -1,0 +1,6 @@
+With all due respect to the creators of sCTF.
+I appreciate the effort and had lots of fun during the competition.
+But this is without a doubt up until this point the dumbest CTF problem I've evre done.
+The flag is literally just the name of the binary file.
+
+Flag: qwerty
