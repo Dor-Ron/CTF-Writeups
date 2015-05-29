@@ -7,5 +7,4 @@ which happens to be our flag.
 
 Flag: 2250347
 
-Note: Python file will take a while to fully run, That's why I made a txt file
-With the 500000 number long integer.
+Note: Python file will take a while to fully run, be patient
