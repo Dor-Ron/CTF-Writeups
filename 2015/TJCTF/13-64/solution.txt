@@ -1,0 +1,5 @@
+We decrypt the cipher text provided first by running a rot13 
+decryption method, follwed by a base64 decryption method.
+We know this from the problem name and padding of string.
+
+Flag: 3qual5-seven7y-Sev3n
