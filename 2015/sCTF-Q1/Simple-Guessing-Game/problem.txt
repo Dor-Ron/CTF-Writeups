@@ -1,0 +1,5 @@
+I'm thinking of an integer between 1 and 10.
+
+python.sctf.io:11234
+
+My number is randomly generated each time you guess.
