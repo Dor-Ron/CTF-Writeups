@@ -1,0 +1,11 @@
+First we decode the morse code and get the following:
+
+SAMUEL..--.-MORSE..--.-IS..--.-COOL..--.-BUT..--.-BACON..--.-IS..--.-COOLER..--.-BAABBAABBBABAAABAABAABAAABAABABAABBAABBBAABAAAABABABABBAAAAAAABBA 
+
+Then decode the Baconian cipher and get the flag.
+
+Flag: THISISTHEFLAG
+
+Tools:
+  Morse - http://rumkin.com/tools/cipher/morse.php
+  Baconian - http://rumkin.com/tools/cipher/baconian.php
