@@ -1,0 +1,5 @@
+The flag is less than 8 characters.
+
+Have Fun
+
+NOTE: You don't have to run the problem to solve, and it isn't advised either .
