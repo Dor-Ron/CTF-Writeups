@@ -1,0 +1,10 @@
+Look at the python file.
+Looking back there are betters way I could've wrote this.
+Especially not dealing with all those arrays. But it works.
+Made an array of prime and odd numbers below 1000.
+Then wrote a function to get the sum of all the numbers in those array, 
+in the range of the parameter (exclusive)
+
+Finally, plugged it into the flufferduff equation and got the flag.
+
+Flag: 991
