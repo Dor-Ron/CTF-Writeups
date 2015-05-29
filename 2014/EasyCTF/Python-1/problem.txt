@@ -1,0 +1,1 @@
+Welcome to Python crash course! To get started, head over to the Python Editor and print the string Hello, EasyCTF! exactly like that to the console.
