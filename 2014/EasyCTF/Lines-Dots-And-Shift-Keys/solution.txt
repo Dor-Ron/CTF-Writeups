@@ -1,0 +1,18 @@
+Tools Used:
+  http://rumkin.com/tools/cipher/morse.php
+  http://rumkin.com/tools/cipher/caesar.php
+  
+We can immediately recognize the morse code cipher.
+We use the first link above and get the follwing link when decrypted.
+
+HTTP://TINYURL.COM/LINESANDDOTS
+
+We go to that link and get this text.
+
+snhj btwp! ymnx hnumjw xmtzqi gj kfrnqnfw yt dtz, tw rfdgj sty. fsdbfd, fx f wjbfwi, mfaj ymnx kqfl. q1s3x_fsi_i0yx_y0_b0wie
+
+We then use the Caesar cipher with n = 21 and get:
+
+nice work! this cipher should be familiar to you, or maybe not. anyway, as a reward, have this flag. l1n3s_and_d0ts_t0_w0rdz
+
+Flag: l1n3s_and_d0ts_t0_w0rdz
