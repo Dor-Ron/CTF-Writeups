@@ -1,0 +1,12 @@
+I used: http://rumkin.com/tools/cipher/caesar.php
+to decrypt the Caesar cipher.
+
+We know shift for all the numbers is the same, and this part of the string:
+ZNK LRGM OY IGKYGX_OY_NUSK.
+
+Looks fairly similar to:
+The flag is xxxxxx_xx_xxxx
+
+So from Z -> T there's a 20 letter shift. We set n = 20 and decrypt the text.
+
+Flag: CAESAR_IS_HOME
