@@ -1,0 +1,5 @@
+Same script from before, just change the port and the range.
+
+Flag: thatwascruel
+
+Note: for faster results run the script in a few terminal windows simultaneaously
