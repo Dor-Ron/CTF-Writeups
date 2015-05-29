@@ -1,0 +1,5 @@
+We're essentially brute forcing the guessing game until we get back
+something other than Nope!.
+Just need to run the python script I wrote.
+
+Flag: qqq12345
