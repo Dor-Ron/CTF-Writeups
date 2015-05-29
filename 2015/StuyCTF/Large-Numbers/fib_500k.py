@@ -11,6 +11,7 @@ def fib(n):
 param = 0
 while True:
     if len(str(fib(param))) == five_hundred_k:
+        print str(param) + "\n"
         large_num = fib(param)
         break
     else:
