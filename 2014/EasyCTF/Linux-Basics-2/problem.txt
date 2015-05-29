@@ -1,0 +1,3 @@
+Now that you're somewhat familiar with how the Linux shell works, we'll move on to another command that is useful: cat.
+
+To solve this problem, log into the shell server, and try to find out what's inside /problems/cat/flag.txt
