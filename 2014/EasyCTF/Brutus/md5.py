@@ -8,9 +8,9 @@ adjectives = ['cool', 'smart', 'funny', 'happy', 'weird', 'strange', 'normal', '
 
 string = ""
 for idx1 in numbers:
-    for idx2 in colors:
-        for idx3 in animals:
-            for idx4 in adjectives:
+    for idx2 in adjectives:
+        for idx3 in colors:
+            for idx4 in animals:
                 hash = md5(idx1 + idx2 + idx3 + idx4).hexdigest()
                 if hash == "f54f10fd6e38929084d505d0c2e9c997":
                     print hash
