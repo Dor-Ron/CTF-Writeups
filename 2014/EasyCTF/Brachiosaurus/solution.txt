@@ -1,0 +1,20 @@
+I tried saving the image with numerous different file extensions. .zip worked best.
+We get a bunch of files and one that stands out called: whatAFineKeyThisIs
+In this file, it says:
+
+my favorite numbers are seven and three.
+gaf cnrvp qnjkfs hz zfufqgffq
+
+I tried looking into ciphers which take 2 keys, and found the Affine Cipher.
+I used this website 
+
+to decrypt the text "gaf cnrvp qnjkfs hz zfufqgffq" with keys 7 and 3 and got:
+
+the lucky number is seventeen
+
+I then look into file 17.SHORT.OUT. I tried ctrl+f key words like flag, key, solution, answer etc. and found:
+
+ANSWER4Y0UREFF0RTSISC1PH3RSANDKRYPT0
+
+
+Flag: C1PH3RSANDKRYPT0
