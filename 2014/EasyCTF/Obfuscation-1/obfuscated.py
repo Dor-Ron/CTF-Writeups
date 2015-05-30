@@ -12,5 +12,9 @@ apple = "FOODISYUMMY"
  
 final = mystery(text, apple)                                                                                                                                           
  
-print (text)                                                                                   
-print (final)                                                                                   
+#Everything below this point I added
+#===================================
+
+for q in xrange(26):
+    text = mystery(text, apple)
+    print text  
