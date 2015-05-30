@@ -1,0 +1,7 @@
+Basically we're told the encrypted text and the algorithm which encrpyted it.
+So we can essentially reverse engineer it.
+We can see that the algorithm uses chr() on the numerical values of the input... their ord()
+So I just brute forced it so to speak. Tried all 26 letters and hoped I'd get something that makes sense.
+It worked out. The full string was: NICEJOBFIGURINGOUTWHATTHISPROGRAMDOESTHEFLAGISVINEGARISTHEBESTCIPHER
+
+Flag: VINEGARISTHEBESTCIPHER
