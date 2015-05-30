@@ -1,0 +1,5 @@
+Free points guyz.
+
+Obfuscation is changing variables and statements in a code so that it still performs the desired functions but is harder to read by humans. This makes it harder for people who are not supposed to see your code to understand your code. Try your hand at the following Python deobfuscation exercise:
+
+Input file
