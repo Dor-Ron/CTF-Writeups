@@ -1,0 +1,4 @@
+Run the python script.
+It checks all possible md5 hash combinations until it finds a match.
+
+Flag: 5happypurpleturtles
