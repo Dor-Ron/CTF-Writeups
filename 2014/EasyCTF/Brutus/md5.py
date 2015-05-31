@@ -1,4 +1,7 @@
+#!/usr/bin/env python
+
 from hashlib import md5
+from sys import exit
 
 #got these from the text files. saves the open().read().split(" ") etc.
 numbers = [str(num) for num in xrange(1, 11)] #one-liners == <3
@@ -14,3 +17,4 @@ for idx1 in numbers:
                 hash = md5(idx1 + idx2 + idx3 + idx4).hexdigest()
                 if hash == "f54f10fd6e38929084d505d0c2e9c997":
                     print hash
+                    exit()
