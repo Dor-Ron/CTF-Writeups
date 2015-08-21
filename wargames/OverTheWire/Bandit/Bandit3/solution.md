@@ -3,7 +3,7 @@ There are a few possible solutions to this one.
 One is the Python approach:
 
   * `python` 
-  * then in the REPL typing `open('"spaces in this filename').read()`
+  * then in the REPL typing `open('spaces in this filename').read()`
   
 Then, you can realize that there is only one file in the directory and run:
 
