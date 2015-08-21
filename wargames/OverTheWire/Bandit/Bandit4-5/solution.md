@@ -8,16 +8,16 @@ had a lot in common. I ran `pwd` to get the path flag for the `file` command. An
 
 Which gave me the following output:
 
-/home/bandit4/inhere/-file00: data
-/home/bandit4/inhere/-file01: data
-/home/bandit4/inhere/-file02: data
-/home/bandit4/inhere/-file03: data
-/home/bandit4/inhere/-file04: data
-/home/bandit4/inhere/-file05: data
-/home/bandit4/inhere/-file06: data
-/home/bandit4/inhere/-file07: ASCII text
-/home/bandit4/inhere/-file08: data
-/home/bandit4/inhere/-file09: data
+    /home/bandit4/inhere/-file00: data
+    /home/bandit4/inhere/-file01: data
+    /home/bandit4/inhere/-file02: data
+    /home/bandit4/inhere/-file03: data
+    /home/bandit4/inhere/-file04: data
+    /home/bandit4/inhere/-file05: data
+    /home/bandit4/inhere/-file06: data
+    /home/bandit4/inhere/-file07: ASCII text
+    /home/bandit4/inhere/-file08: data
+    /home/bandit4/inhere/-file09: data
 
 The salient file being **./-file07** So I ran:
 
