@@ -14,4 +14,4 @@ The password for the next level is stored in the file data.txt, which contains b
 
     The password is IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
     
-Flag: **IFukwKGsFW8MOq3IRFqrxE1hxTNEbUP**
+Flag: **IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR**
