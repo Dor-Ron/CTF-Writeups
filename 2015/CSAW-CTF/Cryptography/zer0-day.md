@@ -13,7 +13,7 @@ We get back:
 
 Which gave back: `Evil Corp, we have delivered on our promise as expected. base64: invalid input`
 
-3) That wasn't the flag, but I googled **Evil Corp, we have delivered on our promise as expected.** and found: (Mr. Robot)[http://www.tvfanatic.com/quotes/we-are-fsociety-we-are-finally-free-we-are-finally-awake/]
+3) That wasn't the flag, but I googled **Evil Corp, we have delivered on our promise as expected.** and found: [Mr. Robot](http://www.tvfanatic.com/quotes/we-are-fsociety-we-are-finally-free-we-are-finally-awake/)
 
 4) The flag was the bolded titled which was:
 
