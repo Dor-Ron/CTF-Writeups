@@ -2,7 +2,7 @@
 
 We get back: `EOY XF, AY VMU M UKFNY TOY YF UFWHYKAXZ EAZZHN. UFWHYKAXZ ZNMXPHN. UFWHYKAXZ EHMOYACOI. VH'JH EHHX CFTOUHP FX VKMY'U AX CNFXY FC OU. EOY VH KMJHX'Y EHHX IFFQAXZ MY VKMY'U MEFJH OU.`
 
-2) Copy and paste the text to (quipquip)[http://www.quipqiup.com/index.php]
+2) Copy and paste the text to [quipquip](http://www.quipqiup.com/index.php)
 
 3) The result is the flag which is
 
