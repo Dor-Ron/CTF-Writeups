@@ -1,0 +1,5 @@
+Find Julian's twitter account: https://twitter.com/HockeyInJune
+Scroll through his tweets and find one that reads: Enough cocks, cabs, hockey, laser beams, and dates.  This year's recon challenge is going to be easy:
+flag{f7da7636727524d8681ab0d2a072d663}
+
+Flag: flag{f7da7636727524d8681ab0d2a072d663}

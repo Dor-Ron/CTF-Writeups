@@ -1,0 +1,10 @@
+Problem:
+On Windows, loading a library and having it's code run in another process is called _ .
+
+
+Solution:
+
+googled 'loading a library and having it's code run in another process is called'
+found: [https://msdn.microsoft.com/en-us/library/windows/desktop/ms682583(v=vs.85).aspx]
+
+flag: DLL injection

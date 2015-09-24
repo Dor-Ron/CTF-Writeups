@@ -1,0 +1,12 @@
+I tried grepping different key phrases didnt work.
+
+Anyways:
+
+strings img.jpg
+
+
+Get back a lot of weird lines. One line reads:
+h1d1ng_in_4lm0st_pla1n_sigh7
+which is the flag.
+
+Flag: h1d1ng_in_4lm0st_pla1n_sigh7

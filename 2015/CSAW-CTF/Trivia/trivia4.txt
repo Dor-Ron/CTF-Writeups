@@ -1,0 +1,9 @@
+Challenge:
+
+This vulnerability occurs when the incorrect timing/sequence of events may cause a bug.
+
+Solution:
+
+Again, just google it more or less. Answer at: [https://en.wikipedia.org/wiki/Race_condition]
+
+Flag: race condition

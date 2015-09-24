@@ -1,0 +1,11 @@
+Challenge:
+
+This mode on x86 is generally referred to as ring -2.
+
+
+Solution:
+
+Googled: "x86 mode ring-2," find "the most privileged level of execution, to 'ring -2,' the System Management Mode." in 
+the meta description tag of [http://www.bit-tech.net/news/hardware/2015/08/07/x86-security-flaw/1]
+
+Flag: System Management Mode
