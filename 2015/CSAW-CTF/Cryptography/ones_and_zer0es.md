@@ -13,7 +13,7 @@
 	111011011100010000001110011011000110111001001100101011101110110010101100100001000000110100101101110011101000110111100100000011101000110100001100101011010010111001000	
 	100000011010000110010101100001011001000111001100101110
 
-which we copy and paste to: (binary2ascii)[http://www.binaryhexconverter.com/binary-to-ascii-text-converter]
+which we copy and paste to: [binary2ascii](http://www.binaryhexconverter.com/binary-to-ascii-text-converter)
 
 3) Using the website we get back this string of text 
 
