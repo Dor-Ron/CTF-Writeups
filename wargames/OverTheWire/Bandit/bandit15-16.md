@@ -2,3 +2,5 @@
 
 Get the password, pipe, then use ssl encryption using a client to connect to localhost on port 30001,
 -quiet cause we're instructed.
+
+flag: **cluFn7wTiGryunymYOu4RcffSxQluehd**
