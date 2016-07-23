@@ -1,0 +1,24 @@
+1) So we google Mikasa Mikoto, we get this
+
+    http://toarumajutsunoindex.wikia.com/wiki/Misaka_Mikoto
+
+2) Under Epithet there's "railgun", I think this hints to rail-fence cipher,
+So I go here:
+
+http://www.woodmann.com/fravia/railfe.htm
+
+3) Set the groups to 5 (her power level), paste this text
+
+rasfsasrettlepinebec353luteayvlrghs3s
+
+4) And click on decipher to get this:
+
+railgunsarethebesteasyctfl3v3l5es
+
+I tried submitting that whole string, as well as:
+easyctfl3v3l5es
+easyctf{l3v3l5es}
+l3v3l5es
+railgunsarethebesteasyctfl3v3l5es
+
+None were the answer :/ but I'm pretty sure we're on the right track

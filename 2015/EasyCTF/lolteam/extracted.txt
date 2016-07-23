@@ -1,0 +1,25 @@
+POST /api/account/update HTTP/1.1
+Host: 2014.easyctf.com
+Connection: keep-alive
+Content-Length: 110
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://2014.easyctf.com
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://2014.easyctf.com/account
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.8
+Cookie: __cfduid=d2e52ff5abd0013e13d0afcf54c7ec3e31443063108; connect.sid=s%3A-6O0is-kNCppg25YeYbFyCLMX2CLMXro.WWbHuLa0mQFzkD9j2lLyw%2BqzxYpSmF9JZLiQrXL9d5Q
+
+teamname=lolteam&school=lolschool&password=flag%7Bno%2C_lolteam_is_not_an_admin_account%7D&confirm=lolpasswordHTTP/1.1 200 OK
+Date: Thu, 24 Sep 2015 02:54:29 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: Express
+Vary: X-HTTP-Method-Override
+Via: 1.1 vegur
+Server: cloudflare-nginx
+CF-RAY: 22ab347b749e0166-ORD
+Content-Encoding: gzip
